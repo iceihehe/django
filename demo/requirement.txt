@@ -1,0 +1,5 @@
+django
+psycopg2
+wechat_sdk
+requests
+newrelic

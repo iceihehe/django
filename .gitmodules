@@ -1,0 +1,3 @@
+[submodule "demo/wechat_extend"]
+	path = demo/wechat_extend
+	url = git@github.com:iceihehe/wechat_extend
