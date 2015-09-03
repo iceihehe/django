@@ -6,6 +6,7 @@ import sys
 
 from django.http import HttpResponse
 from django.views.generic import View
+
 from wechat_extend.basic import WechatExtend
 from const import pn
 
