@@ -9,7 +9,7 @@ urlpatterns = patterns(
     '',
 
     url(
-        r'(?P<appid>wx[0-9a-z]{16})/callback$',
+        r'(?P<appid>wx[0-9a-z]{16})/interface$',
         views.WechatInterface.as_view()
     ),
 )
